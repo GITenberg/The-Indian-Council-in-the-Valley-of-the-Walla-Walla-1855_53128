@@ -1,0 +1,29 @@
+_repo: The-Indian-Council-in-the-Valley-of-the-Walla-Walla-1855_53128
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kip, Lawrence
+    birthdate: 1836
+    deathdate: 1899
+    gutenberg_agent_id: '47229'
+    url: http://www.gutenberg.org/2009/agents/47229
+description: ''
+gutenberg_issued: '2016-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53128'
+  lccn: '15013023'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'Pacific Coast Indians, Wars with, 1847-1865'
+- !lcc 'E011'
+- !lcc 'E151'
+- !lcsh 'Walla Walla (Wash.) -- History'
+- !lcsh 'Indians of North America -- Washington (State)'
+- GITenberg
+title: The Indian Council in the Valley of the Walla-Walla. 1855
+url: http://www.gutenberg.org/ebooks/53128
